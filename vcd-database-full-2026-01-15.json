@@ -1,0 +1,372 @@
+[
+  {
+    "title": "Bolt",
+    "cover_art": "https://archive.org/download/56-43-44-20-41-72-63-68-69-76-65/Bolt%20%28Malaysia%29/Slipcase%20Front.jpg",
+    "back_art": "https://archive.org/download/56-43-44-20-41-72-63-68-69-76-65/Bolt%20%28Malaysia%29/Slipcase%20Back.jpg",
+    "disc_images": [
+      "https://archive.org/download/56-43-44-20-41-72-63-68-69-76-65/Bolt%20%28Malaysia%29/Disc%201.jpg",
+      "https://archive.org/download/56-43-44-20-41-72-63-68-69-76-65/Bolt%20%28Malaysia%29/Disc2.jpg"
+    ],
+    "additional_images": [],
+    "number_of_discs": 2,
+    "year": null,
+    "audio_language": "English",
+    "audio_language_2": "",
+    "subtitle_language": "Chinese",
+    "subtitle_language_2": "",
+    "subtitle_language_3": "",
+    "country": "Malaysia",
+    "publisher": "Berjaya HVN SDN. BHD.",
+    "download_link": "https://archive.org/download/56-43-44-20-41-72-63-68-69-76-65/Bolt%20%28Malaysia%29/",
+    "notes": "",
+    "average_rating": null,
+    "rating_count": null,
+    "id": "69674b380f698af139c2b769",
+    "created_date": "2026-01-14T07:52:24.374000",
+    "updated_date": "2026-01-14T07:52:24.374000",
+    "created_by_id": "69608a7242418ff1405e6b87",
+    "is_sample": false
+  },
+  {
+    "title": "Wall-E",
+    "cover_art": "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/43b5b089c_SlipcaseFront.jpg",
+    "back_art": "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/c10ee0b95_SlipcaseBack.jpg",
+    "disc_images": [
+      "https://archive.org/download/56-43-44-20-41-72-63-68-69-76-65/Wall-E%20%28Hong%20Kong%29/Disc%201.jpg",
+      "https://archive.org/download/56-43-44-20-41-72-63-68-69-76-65/Wall-E%20%28Hong%20Kong%29/Disc%202.jpg"
+    ],
+    "additional_images": [],
+    "number_of_discs": 2,
+    "year": null,
+    "audio_language": "English",
+    "audio_language_2": "",
+    "subtitle_language": "Chinese",
+    "subtitle_language_2": "",
+    "subtitle_language_3": "",
+    "country": "Hong Kong",
+    "publisher": "IVL",
+    "download_link": "https://archive.org/download/56-43-44-20-41-72-63-68-69-76-65/Wall-E%20%28Hong%20Kong%29/",
+    "notes": "",
+    "average_rating": null,
+    "rating_count": null,
+    "id": "69674a33b5a9e0d59f667fca",
+    "created_date": "2026-01-14T07:48:03.929000",
+    "updated_date": "2026-01-14T07:49:47.257000",
+    "created_by_id": "69608a7242418ff1405e6b87",
+    "is_sample": false
+  },
+  {
+    "title": "The 6th Day",
+    "cover_art": "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/31d763751_CoverFront-Copy.jpg",
+    "back_art": "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/c7ddf54f9_TrayBack.jpg",
+    "disc_images": [
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/23bcbf6cf_Disc1.jpg",
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/446d85bef_Disc2.jpg"
+    ],
+    "additional_images": [
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/428887cca_CoverFront.jpg",
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/6cea0a3aa_CoverInside.jpg",
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/8c1d04767_TrayInside.jpg"
+    ],
+    "number_of_discs": 2,
+    "year": null,
+    "audio_language": "English",
+    "audio_language_2": "",
+    "subtitle_language": "Indonesian",
+    "subtitle_language_2": "",
+    "subtitle_language_3": "",
+    "country": "Asia",
+    "publisher": "Dutamitra",
+    "download_link": "https://archive.org/download/56-43-44-20-41-72-63-68-69-76-65/The%206th%20Day%20%28ASIA%29/",
+    "notes": "",
+    "average_rating": null,
+    "rating_count": null,
+    "id": "696748b7195a82006f371775",
+    "created_date": "2026-01-14T07:41:43.399000",
+    "updated_date": "2026-01-14T07:41:43.399000",
+    "created_by_id": "69608a7242418ff1405e6b87",
+    "is_sample": false
+  },
+  {
+    "title": "Hostel 2",
+    "cover_art": "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/d216ef356_hostil-Copy.jpg",
+    "back_art": "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/64c203d52_hostil.jpg",
+    "disc_images": [
+      "https://archive.org/download/56-43-44-20-41-72-63-68-69-76-65/Hostel%202%20%28PHIILIPPINES%29/Disc%201.jpg",
+      "https://archive.org/download/56-43-44-20-41-72-63-68-69-76-65/Hostel%202%20%28PHIILIPPINES%29/Disc%202.jpg"
+    ],
+    "additional_images": [
+      "https://archive.org/download/56-43-44-20-41-72-63-68-69-76-65/Hostel%202%20%28PHIILIPPINES%29/Cover.jpg"
+    ],
+    "number_of_discs": 2,
+    "year": null,
+    "audio_language": "English",
+    "audio_language_2": "",
+    "subtitle_language": "None",
+    "subtitle_language_2": "",
+    "subtitle_language_3": "",
+    "country": "Philippines",
+    "publisher": "MagnaVision Incorporated",
+    "download_link": "https://archive.org/download/56-43-44-20-41-72-63-68-69-76-65/Hostel%202%20%28PHIILIPPINES%29/",
+    "notes": "",
+    "average_rating": null,
+    "rating_count": null,
+    "id": "69673a855aed6c7f0bd1384f",
+    "created_date": "2026-01-14T06:41:09.734000",
+    "updated_date": "2026-01-14T06:41:09.734000",
+    "created_by_id": "69608a7242418ff1405e6b87",
+    "is_sample": false
+  },
+  {
+    "title": "Beyond 超越 Beyond - 1983-2003抗战20周年演唱会 收录31首经典歌曲 ",
+    "cover_art": "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/9c48e548e_1000094251.jpg",
+    "back_art": "https://archive.org/download/56-43-44-20-41-72-63-68-69-76-65/Beyond%20%E8%B6%85%E8%B6%8A%20Beyond%20-%201983-2003%E6%8A%97%E6%88%9820%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%20%E6%94%B6%E5%BD%9531%E9%A6%96%E7%BB%8F%E5%85%B8%E6%AD%8C%E6%9B%B2%20%28Hong%20Kong%29%20%28Chinese%20Language%29/Slip%20Case%20Back.jpg",
+    "disc_images": [
+      "https://archive.org/download/56-43-44-20-41-72-63-68-69-76-65/Beyond%20%E8%B6%85%E8%B6%8A%20Beyond%20-%201983-2003%E6%8A%97%E6%88%9820%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%20%E6%94%B6%E5%BD%9531%E9%A6%96%E7%BB%8F%E5%85%B8%E6%AD%8C%E6%9B%B2%20%28Hong%20Kong%29%20%28Chinese%20Language%29/Disc%201.jpg",
+      "https://archive.org/download/56-43-44-20-41-72-63-68-69-76-65/Beyond%20%E8%B6%85%E8%B6%8A%20Beyond%20-%201983-2003%E6%8A%97%E6%88%9820%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%20%E6%94%B6%E5%BD%9531%E9%A6%96%E7%BB%8F%E5%85%B8%E6%AD%8C%E6%9B%B2%20%28Hong%20Kong%29%20%28Chinese%20Language%29/Disc%202.jpg"
+    ],
+    "additional_images": [
+      "https://archive.org/download/56-43-44-20-41-72-63-68-69-76-65/Beyond%20%E8%B6%85%E8%B6%8A%20Beyond%20-%201983-2003%E6%8A%97%E6%88%9820%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%20%E6%94%B6%E5%BD%9531%E9%A6%96%E7%BB%8F%E5%85%B8%E6%AD%8C%E6%9B%B2%20%28Hong%20Kong%29%20%28Chinese%20Language%29/Slip%20Case%20Front.jpg"
+    ],
+    "number_of_discs": 2,
+    "year": null,
+    "audio_language": "Chinese",
+    "audio_language_2": "",
+    "subtitle_language": "None",
+    "subtitle_language_2": "",
+    "subtitle_language_3": "",
+    "country": "Hong Kong",
+    "publisher": "MegaStar",
+    "download_link": "https://archive.org/download/56-43-44-20-41-72-63-68-69-76-65/Beyond%20%E8%B6%85%E8%B6%8A%20Beyond%20-%201983-2003%E6%8A%97%E6%88%9820%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%20%E6%94%B6%E5%BD%9531%E9%A6%96%E7%BB%8F%E5%85%B8%E6%AD%8C%E6%9B%B2%20%28Hong%20Kong%29%20%28Chinese%20Language%29/",
+    "notes": "",
+    "average_rating": null,
+    "rating_count": null,
+    "id": "6966079030213a509281acdb",
+    "created_date": "2026-01-13T08:51:28.464000",
+    "updated_date": "2026-01-13T08:51:28.464000",
+    "created_by_id": "69608a7242418ff1405e6b87",
+    "is_sample": false
+  },
+  {
+    "title": "Back to the Future III",
+    "cover_art": "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/b8c2a892d_Cover-Copy.JPG",
+    "back_art": "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/492ff4d61_Tray.JPG",
+    "disc_images": [
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/289372e41_Disc1.JPG",
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/65131cacf_Disc2.JPG"
+    ],
+    "additional_images": [
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/038679f6d_Cover.JPG"
+    ],
+    "number_of_discs": 2,
+    "audio_language": "English",
+    "subtitle_language": "Chinese",
+    "country": "Malaysia",
+    "publisher": "Berjaya HVN SDN. BHD.",
+    "download_link": "https://archive.org/download/56-43-44-20-41-72-63-68-69-76-65/Back%20to%20the%20%20Future%20III%20%28Malaysia%29/",
+    "notes": "",
+    "average_rating": null,
+    "rating_count": null,
+    "id": "696492bdbd89b093bdb0bfa2",
+    "created_date": "2026-01-12T06:20:45.897000",
+    "updated_date": "2026-01-12T06:21:48.340000",
+    "created_by_id": "69608a7242418ff1405e6b87",
+    "is_sample": false
+  },
+  {
+    "title": "Back to the Future II",
+    "cover_art": "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/902440365_Cover-Copy.JPG",
+    "back_art": "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/0bc2d4f7f_Tray.JPG",
+    "disc_images": [
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/206efc009_Disc1.JPG",
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/f8bb6f60c_Disc2.JPG"
+    ],
+    "additional_images": [
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/4de9faeca_Cover.JPG"
+    ],
+    "number_of_discs": 2,
+    "audio_language": "English",
+    "subtitle_language": "Chinese",
+    "country": "Malaysia",
+    "publisher": "Berjaya HVN SDN. BHD.",
+    "download_link": "https://archive.org/download/56-43-44-20-41-72-63-68-69-76-65/Back%20%20to%20the%20Future%20II%20%28Malaysia%29/",
+    "notes": "",
+    "average_rating": null,
+    "rating_count": null,
+    "id": "696491e9f12addec65149e15",
+    "created_date": "2026-01-12T06:17:13.697000",
+    "updated_date": "2026-01-12T06:17:13.697000",
+    "created_by_id": "69608a7242418ff1405e6b87",
+    "is_sample": false
+  },
+  {
+    "title": "Back to the Future",
+    "cover_art": "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/1f874666b_Cover-Copy.JPG",
+    "back_art": "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/325938370_Tray.JPG",
+    "disc_images": [
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/33b607171_Disc1.JPG",
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/7603b04a8_Disc2.JPG"
+    ],
+    "additional_images": [
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/25ee655d6_Cover.JPG",
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/8eb1a1587_CoverInside.JPG",
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/330408bc8_TrayInside.JPG"
+    ],
+    "number_of_discs": 2,
+    "audio_language": "English",
+    "subtitle_language": "Chinese",
+    "country": "Hong Kong",
+    "publisher": "CIC Video (HK)",
+    "download_link": "https://archive.org/download/56-43-44-20-41-72-63-68-69-76-65/Back%20%20to%20the%20Future%20%28Hong%20Kong%29/",
+    "notes": "",
+    "average_rating": null,
+    "rating_count": null,
+    "id": "696490e2ee1a3970667b26ee",
+    "created_date": "2026-01-12T06:12:50.637000",
+    "updated_date": "2026-01-12T06:12:50.637000",
+    "created_by_id": "69608a7242418ff1405e6b87",
+    "is_sample": false
+  },
+  {
+    "title": "Atomic Kitten - Feels So Good (AVCD)",
+    "cover_art": "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/f0c34918e_SlipcaseFront.jpg",
+    "back_art": "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/2dd236315_SlipcaseBack.jpg",
+    "disc_images": [
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/427d0e3a2_disc.jpg",
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/01e76faba_AVCD.png"
+    ],
+    "additional_images": [
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/55b13890c_booklet-1-front.jpg",
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/c5d43412c_booklet-2.jpg",
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/a8e9f8019_booklet-3.jpg",
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/7989abb55_booklet-4.jpg",
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/0b7e83ea8_booklet-5.jpg",
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/0eb1ab6ae_booklet-6.jpg",
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/5ee10839d_booklet-7.jpg",
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/7a0f6060a_booklet-8.jpg",
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/a5a06e138_inside.jpg",
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/8e7420f3f_inlay.jpg",
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/09b2d491a_AVCDCover.jpg"
+    ],
+    "number_of_discs": 2,
+    "audio_language": "English",
+    "subtitle_language": "None",
+    "country": "Hong Kong",
+    "publisher": "Virgin Records",
+    "download_link": "https://archive.org/download/56-43-44-20-41-72-63-68-69-76-65/Atomic%20Kitten%20%20-%20Feels%20So%20Good%20%28AVCD%20Hong%20Kong%29/",
+    "notes": "Disc 1 Is an audio CD and Disc 2 is a AVCD (VCD/Audio)",
+    "average_rating": null,
+    "rating_count": null,
+    "id": "69648fb44e8e97b528ac6701",
+    "created_date": "2026-01-12T06:07:48.437000",
+    "updated_date": "2026-01-12T06:07:48.437000",
+    "created_by_id": "69608a7242418ff1405e6b87",
+    "is_sample": false
+  },
+  {
+    "title": "Astronaut: The Last Push",
+    "cover_art": "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/e5524aed1_Cover.jpg",
+    "back_art": "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/bc602668c_Tray.jpg",
+    "disc_images": [
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/7b7aa7cf0_Disc1.jpg",
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/3c5bd8d47_Disc2.jpg"
+    ],
+    "additional_images": [
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/10a07ae22_SlipCaseFront.jpg",
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/e7028c0c7_SlipCaseBack.jpg",
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/3b18f4d6a_ContestEntryFront.jpg",
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/339e99570_ContestEntryBack.jpg"
+    ],
+    "number_of_discs": 2,
+    "audio_language": "Thai",
+    "subtitle_language": "None",
+    "country": "Thailand",
+    "publisher": "United Home Entertainment",
+    "download_link": "https://archive.org/download/56-43-44-20-41-72-63-68-69-76-65/Astronaut-%20The%20Last%20Push%20%28Thailand%29%20%28Thai%20Language%29/",
+    "notes": "",
+    "average_rating": null,
+    "rating_count": null,
+    "id": "6960b3104f321d0166892657",
+    "created_date": "2026-01-09T07:49:36.352000",
+    "updated_date": "2026-01-11T05:23:39.812000",
+    "created_by_id": "69608a7242418ff1405e6b87",
+    "is_sample": false
+  },
+  {
+    "title": "12/12/12",
+    "cover_art": "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/ce186d3d3_Cover1.jpg",
+    "back_art": "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/7f2cf17e0_Tray.jpg",
+    "disc_images": [
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/c4eb49841_Disc1.jpg",
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/b788d65ac_Disc2.jpg"
+    ],
+    "additional_images": [
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/2f8861d0c_SlipCaseFront.jpg",
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/ce96500b1_SlipCaseBack.jpg"
+    ],
+    "number_of_discs": 2,
+    "audio_language": "Thai",
+    "subtitle_language": "None",
+    "country": "Thailand",
+    "publisher": "United Home Entertainment",
+    "download_link": "https://archive.org/download/56-43-44-20-41-72-63-68-69-76-65/12-12-12%20%28Thailand%29%20%28Thai%20Language%29/",
+    "notes": "",
+    "average_rating": null,
+    "rating_count": null,
+    "id": "6960b3104f321d0166892654",
+    "created_date": "2026-01-09T07:49:36.352000",
+    "updated_date": "2026-01-11T05:19:10.600000",
+    "created_by_id": "69608a7242418ff1405e6b87",
+    "is_sample": false
+  },
+  {
+    "title": "A Brother's Kiss",
+    "cover_art": "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/bfacb03ba_Cover.jpg",
+    "back_art": "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/286c570e6_TrayInside.jpg",
+    "disc_images": [
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/4c3095f9f_Disc1.jpg",
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/f1d8271b4_Disc2.jpg"
+    ],
+    "additional_images": [
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/521708650_TrayInside.jpg"
+    ],
+    "number_of_discs": 2,
+    "audio_language": "Thai",
+    "subtitle_language": "None",
+    "country": "Thailand",
+    "publisher": "Pacific Marketing & Entertainment Group",
+    "download_link": "https://archive.org/download/56-43-44-20-41-72-63-68-69-76-65/A%20Brother%27s%20Kiss%20%28Thailand%29%20%28Thai%20Language%29/",
+    "notes": "",
+    "average_rating": null,
+    "rating_count": null,
+    "id": "6960b3104f321d0166892655",
+    "created_date": "2026-01-09T07:49:36.352000",
+    "updated_date": "2026-01-11T05:20:55.482000",
+    "created_by_id": "69608a7242418ff1405e6b87",
+    "is_sample": false
+  },
+  {
+    "title": "Akira",
+    "cover_art": "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/b639a4b9c_Cover.png",
+    "back_art": "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/2274c9f48_Back.png",
+    "disc_images": [
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/f1a2f7df0_Disc1.jpg",
+      "https://base44.app/api/apps/69608a7242418ff1405e6b86/files/public/69608a7242418ff1405e6b86/288bd74a8_Disc2.jpg"
+    ],
+    "additional_images": [],
+    "number_of_discs": 2,
+    "audio_language": "English",
+    "subtitle_language": "None",
+    "country": "Malaysia",
+    "publisher": "Home Video Services",
+    "download_link": "https://archive.org/download/56-43-44-20-41-72-63-68-69-76-65/Akira%20%28Malaysia%29/",
+    "notes": "",
+    "average_rating": null,
+    "rating_count": null,
+    "id": "6960b3104f321d0166892656",
+    "created_date": "2026-01-09T07:49:36.352000",
+    "updated_date": "2026-01-11T05:23:12.842000",
+    "created_by_id": "69608a7242418ff1405e6b87",
+    "is_sample": false
+  }
+]
