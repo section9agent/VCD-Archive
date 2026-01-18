@@ -2,7 +2,7 @@ import React from 'react';
 import ReleaseCard from './ReleaseCard';
 import { Loader2 } from 'lucide-react';
 
-export default function ReleaseGrid({ releases, isLoading, publisherLogos = {} }) {
+export default function ReleaseGrid({ releases = [], isLoading }) {
   if (isLoading) {
     return (
       <div className="flex items-center justify-center py-20">
@@ -11,7 +11,7 @@ export default function ReleaseGrid({ releases, isLoading, publisherLogos = {} }
     );
   }
 
-  if (!releases || releases.length === 0) {
+  if (!releases.length) {
     return (
       <div className="text-center py-20">
         <div className="w-16 h-16 mx-auto mb-4 rounded-full bg-slate-50 flex items-center justify-center">
@@ -24,9 +24,11 @@ export default function ReleaseGrid({ releases, isLoading, publisherLogos = {} }
 
   return (
     <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4 md:gap-6">
-      {releases.map((release) => (
-        <ReleaseCard key={release.id} release={release} publisherLogos={publisherLogos} />
-      ))}
+      {releases.map((release) =>
+        release?.id ? (
+          <ReleaseCard key={release.id} release={release} />
+        ) : null
+      )}
     </div>
   );
 }

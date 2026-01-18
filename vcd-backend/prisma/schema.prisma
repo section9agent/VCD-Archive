@@ -1,0 +1,27 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql" // or "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Item {
+  id          String   @id @default(uuid())
+  title       String
+  NumOfDiscs  Int
+  Audio       String
+  Subtitle    String
+  Distribut   String
+  Front       string
+  Back        String
+  Disc1       String
+  Disc2       String
+  Disc3       String
+  Disc4       String
+  Additional  String
+  Download    String
+  Notes       String
+  createdAt   DateTime @default(now())
+}
