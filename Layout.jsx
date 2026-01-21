@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { createPageUrl } from '@/utils';
-import { base44 } from '@/api/base44Client';
+import { base44 } from '@/api/apiClient';
 import { Disc3, Library, LogOut, Menu, X, User, Shield } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 

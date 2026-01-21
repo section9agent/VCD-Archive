@@ -6,10 +6,7 @@ import { Plus, Loader2 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import ReleaseGrid from '@/components/releases/ReleaseGrid';
 import SearchFilters from '@/components/releases/SearchFilters';
-import { fetchStrapi } from '@/api/strapi';
-import { normalizeRelease } from '@/api/normalizeRelease';
-
-const API_URL = import.meta.env.VITE_API_URL;
+import { base44 } from '@/api/apiClient';
 
 export default function Home() {
   const [filters, setFilters] = useState({
@@ -22,11 +19,21 @@ export default function Home() {
 
   const { data: releases = [], isLoading } = useQuery({
     queryKey: ['releases'],
-    queryFn: async () => {
-      const res = await fetchStrapi('/api/releases?populate=*');
-      return res.data.map(item => normalizeRelease(item, API_URL));
-    }
+    queryFn: () => base44.entities.Release.list('-created_date', 500)
   });
+
+  const { data: publisherLogosData = [] } = useQuery({
+    queryKey: ['publisherLogos'],
+    queryFn: () => base44.entities.PublisherLogo.list()
+  });
+
+  const publisherLogos = useMemo(() => {
+    const map = {};
+    publisherLogosData.forEach(l => {
+      map[l.publisher_name.toLowerCase()] = l.logo_url;
+    });
+    return map;
+  }, [publisherLogosData]);
 
   const filteredReleases = useMemo(() => {
     let filtered = releases.filter((release) => {
@@ -91,7 +98,7 @@ export default function Home() {
         <ReleaseGrid
           releases={filteredReleases}
           isLoading={isLoading}
-          publisherLogos={{}}
+          publisherLogos={publisherLogos}
         />
       </div>
     </div>
